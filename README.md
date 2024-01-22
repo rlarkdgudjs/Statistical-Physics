@@ -1,1 +1,1 @@
-Final project files of Thermodynamic & Statistical Physics
+Final project files of Thermodynamic & Statistical Physics using chatgpt
